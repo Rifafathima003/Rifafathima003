@@ -64,7 +64,7 @@ Web scraping → EDA → semantic search chatbot pipeline.
 Finishing ZeTheta and RAG apps. Final semester MSc — available for remote / freelance work from mid-2025.
 
 ---
-
 ## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rifa-fathima-174028322)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifa-fathima-174028322)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rifafathima0900@gmail.com)
