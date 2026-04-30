@@ -25,6 +25,10 @@ I build end-to-end data science systems — from raw data to deployed applicatio
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://github.com/Rifafathima003/Rifafathima003/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://github.com/Rifafathima003/Rifafathima003/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
 
 ## 📊 GitHub stats
 
@@ -47,8 +51,9 @@ Gamified platform detecting 6 financial cognitive biases. FastAPI + Streamlit + 
 ### [RAG Applications — PDF Chat & Website Q&A](https://github.com/Rifafathima003) *(in progress)*
 Two LLM-powered apps using LangChain, ChromaDB, OpenAI embeddings, GPT-4o-mini.
 
-### [Pneumonia Detection — EfficientNetV2](https://github.com/Rifafathima003/pneumonia-detection-efficientnetv2b0)
-Multi-class pneumonia detection with confidence-aware decision support using EfficientNetV2B0.
+### [Pneumonia Detection — UNet + EfficientNetV2](https://github.com/Rifafathima003/pneumonia-detection-efficientnetv2b0)
+Lung segmentation pipeline using UNet trained on annotated masks, applied to unseen images for automatic region extraction. Segmented regions fed into EfficientNetV2B0 for multi-class pneumonia classification with confidence-aware decision support.
+`UNet` `EfficientNetV2` `Segmentation` `Deep Learning` `Medical Imaging`
 
 ### [Book Analysis AI Chatbot](https://github.com/Rifafathima003/book-analysis-ai-chatbot)
 Web scraping → EDA → semantic search chatbot pipeline.
